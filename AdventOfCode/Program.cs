@@ -1,5 +1,5 @@
 ﻿using AdventOfCode;
 
-Console.WriteLine(_7_2.Calculate());
+Console.WriteLine(_9_1.Execute());
 
 Console.Read();

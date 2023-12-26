@@ -12,7 +12,7 @@ namespace AdventOfCode
         {
             var lines = File.ReadAllLines("C:\\Devops\\Repos\\AdventOfCode\\AdventOfCode\\Inputs\\7.txt");
 
-            List<Hand> hands = [];
+            List<Hand> hands = new();
 
             foreach (string line in lines)
             {
